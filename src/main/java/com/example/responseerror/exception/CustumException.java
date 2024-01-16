@@ -1,7 +1,5 @@
 package com.example.responseerror.exception;
 
-import com.example.responseerror.dto.Data;
-import com.example.responseerror.dto.InputRestriction;
 import com.example.responseerror.entity.ErrorCode;
 import lombok.Getter;
 import org.springframework.util.StringUtils;
